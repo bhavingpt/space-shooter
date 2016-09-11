@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=PowerUp
+comment0.text=\r\n\ A\ superclass\ for\ all\ the\ powerups\ the\ player\ can\ pick\ up\r\n\ \r\n\ @author\ Alex\ Chang\r\n\ @version\ Spring\ 2016.\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ PowerUp\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=
+comment2.target=boolean\ getInWorld()
+comment2.text=\r\n\ Accessor\ method\ for\ the\ inWorld\ variable\r\n\ @return\ true\ if\ the\ PowerUp\ is\ in\ the\ world,\ false\ if\ otherwise.\r\n
+comment3.params=world
+comment3.target=void\ setInWorld(boolean)
+comment3.text=\r\n\ Modifier\ method\ for\ the\ variable\ inWorld\r\n\ @param\ world\ whether\ or\ not\ the\ PowerUp\ is\ in\ the\ world\ or\ not.\r\n
+comment4.params=
+comment4.target=void\ remove()
+comment4.text=\r\n\ Removes\ PowerUp\ if\ it\ reaches\ the\ lower\ boundary\ of\ the\ screen.\r\n
+comment5.params=distance
+comment5.target=void\ moveUp(int)
+comment5.text=\r\n\ Moves\ the\ projectile\ up\ or\ down\ by\ the\ specified\ number\ of\ units.\r\n\ @param\ distance\ the\ distance\ the\ projectile\ covers\ over\ a\ unit\ of\ time.\r\n
+numComments=6

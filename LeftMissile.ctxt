@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=LeftMissile
+comment0.text=\n\ A\ missile\ that\ is\ fired\ to\ the\ left\ and\ curves\ up.\n\ \n\ @author\ Alex\ Chang\n\ @version\ Spring\ 2016\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\n\ Act\ -\ do\ whatever\ the\ LeftMissile\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment2.params=
+comment2.target=int\ getMissileSpeed()
+comment2.text=\n\ Accessor\ method\ for\ missileSpeed.\n\ @return\ the\ value\ of\ missileSpeed.\n
+comment3.params=
+comment3.target=int\ getDamage()
+comment3.text=\n\ Accessor\ method\ for\ the\ variable\ damage.\n\ @return\ damage\ the\ amount\ of\ damage\ dealth\ by\ the\ missile.\n
+comment4.params=
+comment4.target=void\ dealDamage()
+comment4.text=\n\ Reduces\ the\ enemy's\ health\ by\ the\ damage\ dealt\ by\ the\ missile.\ The\ missile\ is\ then\ \n\ removed.\n
+comment5.params=
+comment5.target=int\ getTurnCounter()
+comment5.text=\n\ Accessor\ method\ for\ the\ variable\ turnCounter.\n\ @return\ for\ how\ many\ steps\ the\ missile\ turns.\n
+comment6.params=
+comment6.target=int\ getAccelerationDelay()
+comment6.text=\n\ Accessor\ method\ for\ the\ accelerationDelay\ variable.\n\ @return\ how\ long\ before\ the\ missile\ starts\ accelerating.\n
+numComments=7

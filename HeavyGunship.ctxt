@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=HeavyGunship
+comment0.text=\n\ An\ enemy\ ship\ that\ shoots\ both\ lasers\ and\ cannons.\n\ \n\ @author\ Alex\ Chang\n\ @version\ Spring\ 2016\n
+comment1.params=
+comment1.target=HeavyGunship()
+comment1.text=\n\ Constructor\ for\ the\ HeavyGunship\ class.\ This\ sets\ the\ value\ of\ health\ to\ 300.\n
+comment2.params=health\ points\ damage\ index
+comment2.target=HeavyGunship(int,\ int,\ int,\ int)
+comment2.text=\n\ Constructor\ for\ the\ HeavyGunship\ class.\ This\ sets\ the\ values\ to\ program\ specific\ numbers.\n
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\n\ Act\ -\ do\ whatever\ the\ HeavyGunship\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+numComments=4

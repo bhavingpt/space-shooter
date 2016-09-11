@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Chromosome
+comment0.text=\r\n\ Specific\ chromosome\ that\ is\ going\ to\ have\ a\ sequence\ of\ genes\ such\ as\ '01101001010'\r\n\ \r\n\ @author\ Bhavin\ Gupta\ \r\n\ @version\ AP\ Computer\ Science\ A\r\n
+comment1.params=num_genes
+comment1.target=Chromosome(int)
+comment1.text=\r\n\ Constructor\ for\ the\ chromosome\ class.\ Creates\ a\ single\ chromosome\ which\ is\ \r\n\ represented\ in\ the\ form\ of\ an\ arraylist\ of\ booleans,\ all\ false\ for\ now.\r\n\ \r\n\ @param\ num_genes\ the\ length\ of\ the\ ArrayList\r\n\ \r\n
+comment2.params=
+comment2.target=double\ getFitness()
+comment2.text=\r\n\ Returns\ the\ current\ value\ of\ the\ chromosomes\ fitness\ (instance\ variable)\r\n\ \r\n\ @return\ fitness\ value\r\n\ \r\n
+comment3.params=newFit
+comment3.target=void\ setFitness(double)
+comment3.text=\r\n\ Allows\ the\ program\ to\ set\ a\ fitness\ value\ -\ normal\ setter\ for\ an\ instance\ variable\r\n\ \r\n\ @param\ newFit\ new\ fitness\ value\ to\ be\ set\r\n\ \r\n
+comment4.params=i
+comment4.target=boolean\ getGene(int)
+comment4.text=\r\n\ Allows\ the\ program\ to\ get\ a\ particular\ gene\ from\ this\ chromosome\r\n\ given\ its\ index.\r\n\ \r\n\ @param\ i\ index\ of\ desired\ gene\r\n\ @return\ current\ value\ of\ gene\r\n\ \r\n
+comment5.params=i\ newVal
+comment5.target=void\ setGene(int,\ boolean)
+comment5.text=\r\n\ Allows\ the\ user/program\ to\ artificially\ set\ the\ value\ of\ a\ gene\ with\ index\ i\ to\ newVal\r\n\ \r\n\ @param\ i\ index\ of\ desired\ gene\r\n\ @param\ newVal\ value\ to\ set\ the\ gene\ to\r\n\ \r\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\r\n\ Converts\ the\ chromosome\ to\ a\ string.\ the\ method\ is\ called\ toString()\ for\ ease\r\n\ of\ use\ when\ using\ print\ on\ the\ Genetic\ class\ to\ display\ an\ entire\ generation.\r\n\ \r\n
+numComments=7

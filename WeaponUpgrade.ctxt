@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=WeaponUpgrade
+comment0.text=\n\ A\ powerup\ that\ upgrades\ the\ players\ weapons\n\ \n\ @author\ Alex\ Chang\n\ @version\ Spring\ 2016\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\n\ Act\ -\ do\ whatever\ the\ WeaponUpgrade\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment2.params=
+comment2.target=void\ touchPlayer()
+comment2.text=\n\ Upgrades\ the\ player's\ weapons\ when\ the\ RepairKit\ comes\ into\ contact\n\ with\ the\ player.\n
+numComments=3

@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Laser
+comment0.text=\n\ A\ class\ for\ the\ player's\ forward-firing\ laser\ weapon.\n\ \n\ @author\ Alex\ Chang\n\ @version\ Spring\ 2016\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\n\ Act\ -\ do\ whatever\ the\ laser\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment2.params=
+comment2.target=Laser()
+comment2.text=\n\ Constructor\ for\ the\ Laser\ class.\ Plays\ the\ laser\ sound\ effect.\n
+comment3.params=
+comment3.target=int\ getlaserSpeed()
+comment3.text=\n\ Accessor\ method\ for\ laserSpeed.\n\ @return\ the\ value\ of\ laserSpeed.\n
+comment4.params=newDamage
+comment4.target=void\ setDamage(int)
+comment4.text=\n\ Accessor\ method\ for\ the\ laser\ damage\n\ @param\ newDamage\ the\ amount\ of\ damage\ that\ will\ be\ dealt\ by\ the\ laser\n
+comment5.params=
+comment5.target=int\ getDamage()
+comment5.text=\n\ Accessor\ method\ for\ the\ variable\ damage.\n\ @return\ damage\ the\ amount\ of\ damage\ dealth\ by\ the\ laser.\n
+comment6.params=
+comment6.target=void\ dealDamage()
+comment6.text=\n\ Reduces\ the\ enemy's\ health\ by\ the\ damage\ dealt\ by\ the\ laser.\ The\ laser\ is\ then\ \n\ removed.\n
+numComments=7

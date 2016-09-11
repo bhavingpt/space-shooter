@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=EnemyLaser
+comment0.text=\n\ The\ enemy\ ships'\ laser\ projectile\n\ \n\ @author\ Alex\ Chang\ \n\ @version\ Spring\ 2016\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\n\ Act\ -\ do\ whatever\ the\ EnemyLaser\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment2.params=
+comment2.target=int\ getLaserSpeed()
+comment2.text=\n\ Accessor\ method\ for\ laserSpeed.\n\ @return\ the\ value\ of\ laserSpeed.\n
+comment3.params=
+comment3.target=int\ getDamage()
+comment3.text=\n\ Accessor\ method\ for\ the\ variable\ damage.\n\ @return\ damage\ the\ amount\ of\ damage\ dealth\ by\ the\ EnemyLaser.\n
+comment4.params=
+comment4.target=void\ dealDamage()
+comment4.text=\n\ Reduces\ the\ player's\ health\ by\ the\ damage\ dealt\ by\ the\ EnemyLaser.\ The\ EnemyLaser\ is\ then\ \n\ removed.\n
+numComments=5

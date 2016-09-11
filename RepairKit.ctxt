@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=RepairKit
+comment0.text=\n\ A\ powerup\ that\ replenishes\ a\ portion\ of\ the\ player's\ health.\n\ \n\ @author\ Alex\ Chang\n\ @version\ Spring\ 2016\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\n\ Act\ -\ do\ whatever\ the\ RepairKit\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment2.params=
+comment2.target=void\ touchPlayer()
+comment2.text=\n\ Restores\ part\ of\ the\ player's\ health\ when\ the\ RepairKit\ comes\ into\ contact\n\ with\ the\ player.\n
+comment3.params=
+comment3.target=int\ getHealth()
+comment3.text=\n\ Accessor\ method\ for\ the\ health\ variable;\n\ @return\ the\ amount\ of\ health\ the\ health\ pack\ restores.\n
+numComments=4

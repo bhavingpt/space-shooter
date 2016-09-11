@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=LeftBullet
+comment0.text=\n\ The\ bullet\ the\ enemy\ ships\ shoot\ from\ the\ left\ side.\n\ \n\ @author\ Alex\ Chang\n\ @version\ Spring\ 2016\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\n\ Act\ -\ do\ whatever\ the\ LeftBullet\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment2.params=
+comment2.target=int\ getBulletSpeed()
+comment2.text=\n\ Accessor\ method\ for\ bulletSpeed.\n\ @return\ the\ value\ of\ bulletSpeed.\n
+comment3.params=
+comment3.target=int\ getDamage()
+comment3.text=\n\ Accessor\ method\ for\ the\ variable\ damage.\n\ @return\ damage\ the\ amount\ of\ damage\ dealt\ by\ the\ LeftBullet.\n
+comment4.params=
+comment4.target=void\ dealDamage()
+comment4.text=\n\ Reduces\ the\ player's\ health\ by\ the\ damage\ dealt\ by\ the\ LeftBullet.\ The\ LeftBullet\ is\ then\ \n\ removed.\n
+numComments=5

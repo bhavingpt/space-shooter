@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=PowerUpGenerator
+comment0.text=\n\ An\ object\ that\ randomly\ generates\ powerups\n\ \n\ @author\ Alex\ Chang\n\ @version\ Spring\ 2016\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\n\ Act\ -\ do\ whatever\ the\ PowerUpGenerator\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment2.params=
+comment2.target=int\ getWeaponUpgradeDelay()
+comment2.text=\n\ Accessor\ method\ for\ the\ weaponUpgradeDelay\ variable\n\ @return\ how\ long\ before\ each\ weaponUpgrade\ powerup\ is\ spawned.\n
+comment3.params=
+comment3.target=int\ getRepairKitDelay()
+comment3.text=\n\ Accessor\ method\ for\ the\ repairKitDelay\ variable\n\ @return\ how\ long\ before\ each\ RepairKit\ powerup\ is\ spawned\n
+comment4.params=
+comment4.target=int\ getRepairKitCounter()
+comment4.text=\n\ Accessor\ method\ for\ the\ repairKitCounter\ variable\n\ @return\ how\ long\ before\ another\ RepairKit\ powerup\ is\ spawned\n
+comment5.params=
+comment5.target=int\ getWeaponUpgradeCounter()
+comment5.text=\n\ Accessor\ method\ for\ the\ weaponUpgradeCounter\ variable\n\ @return\ how\ long\ before\ another\ WeaponUpgrade\ powerup\ is\ spawned\n
+numComments=6

@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Projectile
+comment0.text=\n\ The\ projectiles\ that\ the\ player\ shoots.\n\ \n\ @author\ Alex\ Chang\ \n\ @version\ Spring\ 2016\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\n\ Act\ -\ do\ whatever\ the\ Projectile\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment2.params=distance
+comment2.target=void\ moveUp(int)
+comment2.text=\n\ Moves\ the\ projectile\ up\ or\ down\ by\ the\ specified\ number\ of\ units.\n\ @param\ distance\ the\ distance\ the\ projectile\ covers\ over\ a\ unit\ of\ time.\n
+comment3.params=
+comment3.target=void\ remove()
+comment3.text=\n\ Removes\ projectile\ if\ it\ hits\ to\ upper\ boundary\ of\ the\ screen.\n
+comment4.params=
+comment4.target=boolean\ getInWorld()
+comment4.text=\n\ Accessor\ method\ for\ the\ variable\ inWorld.\n\ @return\ inWorld\ which\ is\ true\ if\ the\ \n
+comment5.params=world
+comment5.target=void\ setInWorld(boolean)
+comment5.text=\n\ Modifier\ method\ for\ the\ variable\ inWorld\n\ @param\ world\ whether\ or\ not\ the\ projectile\ is\ in\ the\ world\ or\ not.\n
+numComments=6

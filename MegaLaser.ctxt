@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=MegaLaser
+comment0.text=\n\ A\ weapon\ the\ player\ posesses\ that\ fires\ a\ continuous\ beam\ of\ energy.\n\ \n\ @author\ Alex\ Chang\n\ @version\ Spring\ 2016\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\n\ Act\ -\ do\ whatever\ the\ MegaLaser\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+numComments=2
